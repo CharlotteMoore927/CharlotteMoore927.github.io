@@ -1,7 +1,5 @@
 <img src="headshot.png" width="400">
 
-# Charlotte Moore
-
 5th year PhD Candidate
 Developmental Psychology
 Duke University
