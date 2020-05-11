@@ -1,4 +1,4 @@
-<img src="headshot.png" width="200">
+<img src="headshot.png" width="400">
 
 # Charlotte Moore
 
