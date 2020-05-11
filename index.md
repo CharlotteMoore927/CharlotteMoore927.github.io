@@ -1,4 +1,4 @@
-![CharlotteMoore](/assets/css/headshot.png)
+![CharlotteMoore](headshot.png)
 
 # Charlotte Moore
 
