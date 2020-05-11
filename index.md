@@ -1,4 +1,4 @@
-![CharlotteMoore](headshot.png =500)
+<img src="headshot.png" width="200">
 
 # Charlotte Moore
 
