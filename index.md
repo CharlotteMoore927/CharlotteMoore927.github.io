@@ -1,4 +1,4 @@
-
+![CharlotteMoore](assets/images/headshot.png)
 
 # Charlotte Moore
 
