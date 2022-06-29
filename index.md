@@ -19,6 +19,8 @@ I completed my PhD in Developmental Psychology at Duke in 2021 in the [Bergelson
 
 ## CV
 
+<embed src="Academic_CV.pdf" width="500" height="375" type="application/pdf" />
+
 ## Teaching
 
 ## Contact
