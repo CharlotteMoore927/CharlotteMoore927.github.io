@@ -22,6 +22,6 @@ I completed my PhD in Developmental Psychology at Duke in 2021 in the [Bergelson
 ## Teaching
 
 ## Contact
-**Email** doctor.charlotte.moore@gmail.com
-**Twitter** https://twitter.com/CharAtConcordia
-**Github** https://github.com/CharlotteMoore927
+**Email** doctor.charlotte.moore@gmail.com  
+**Twitter** https://twitter.com/CharAtConcordia  
+**Github** https://github.com/CharlotteMoore927  
