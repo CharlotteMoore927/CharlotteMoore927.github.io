@@ -17,19 +17,15 @@ I completed my PhD in Developmental Psychology at Duke in 2021 in the [Bergelson
 **Moore, C.,** Dailey, S., Garrison, H., Amatuni, A., & Bergelson, E. (2019). Point, walk, talk: Links between three early milestones, from observation and parental report. Developmental Psychology. Aug;55(8):1579-1593 https://doi.org/10.1037/dev0000738 or [preprint](https://psyarxiv.com/g6q5u/)
 
 
-## CV
-<body>
-<embed
-    src="Academic_CV.pdf"
-    type="application/pdf"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></embed>
-</body>
+## [CV](https://docs.google.com/document/d/1q2ZeBqlncm5O53nNYxXzpo_KPz0n9zThNp7hKoElEtk/edit?usp=sharing)
 
 ## Teaching
+I will be teaching Research Methods I as the instructor of record in Fall 2023
+
+Teaching statement to come
+
+## Diversity, Equity, and Inclusion work
+DEI statement to come
 
 ## Contact
 **Email** doctor.charlotte.moore@gmail.com  
