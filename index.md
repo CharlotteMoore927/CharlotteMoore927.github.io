@@ -20,7 +20,7 @@ I completed my PhD in Developmental Psychology at Duke in 2021 in the [Bergelson
 ## [CV](https://docs.google.com/document/d/1q2ZeBqlncm5O53nNYxXzpo_KPz0n9zThNp7hKoElEtk/edit?usp=sharing)
 
 ## Teaching
-I will be teaching Research Methods I as the instructor of record in Fall 2023
+I will be teaching Research Methods as the instructor of record in Fall 2023
 
 Teaching statement to come
 
