@@ -9,7 +9,7 @@ Concordia University
 ## Research
 **Research keywords:** phonological representation, word learning, vocabulary growth, eyetracking, infancy, toddlerhood, language development, monolingual language acquisition, bilingual language acquisition  
 
-I completed my PhD in Developmental Psychology at Duke in 2021 in the [Bergelson Lab](https://bergelsonlab.com/). I study lexical and phonological variability in infants' linguistic environments and how it interacts with word learning. I'm interested in this question in monolingual populations, where variability arises in the same language, and in bilingual populations, where infants and toddlers need to wrangle double the variability. My primary research methods are corpus analyses and eyetracking paradigms.  
+I completed my PhD in Developmental Psychology at Duke in 2021 in the [Bergelson Lab](https://bergelsonlab.com/). I am now a Postdoctoral fellow at Concordia University in Montreal, Quebec working with [Krista Byers Heinlein](http://infantresearch.ca/) I study lexical and phonological variability in infants' linguistic environments and how it interacts with word learning. I'm interested in this question in monolingual populations, where variability arises in the same language, and in bilingual populations, where infants and toddlers need to wrangle double the variability. My primary research methods are corpus analyses and eyetracking paradigms.  
 
 ## Selected Publications
 **Moore, C.,** & Bergelson, E. (2022). Examining the roles of regularity and lexical class in 18–26-month-olds’ representations of how words sound. Journal of Memory and Language, 126, 104337. https://doi.org/10.1016/j.jml.2022.104337 or [preprint](https://osf.io/kp7tv/)
@@ -31,3 +31,4 @@ DEI statement to come
 **Email** doctor.charlotte.moore@gmail.com  
 **Twitter** https://twitter.com/CharAtConcordia  
 **Github** https://github.com/CharlotteMoore927  
+**Google Scholar** https://scholar.google.com/citations?user=IWniBokAAAAJ&hl=en
