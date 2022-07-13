@@ -26,9 +26,3 @@ Teaching statement to come
 
 ## Diversity, Equity, and Inclusion work
 DEI statement to come
-
-## Contact
-**Email** doctor.charlotte.moore@gmail.com  
-**Twitter** https://twitter.com/CharAtConcordia  
-**Github** https://github.com/CharlotteMoore927  
-**Google Scholar** https://scholar.google.com/citations?user=IWniBokAAAAJ&hl=en
