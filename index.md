@@ -17,12 +17,8 @@ I completed my PhD in Developmental Psychology at Duke in 2021 in the [Bergelson
 **Moore, C.,** Dailey, S., Garrison, H., Amatuni, A., & Bergelson, E. (2019). Point, walk, talk: Links between three early milestones, from observation and parental report. Developmental Psychology. Aug;55(8):1579-1593 https://doi.org/10.1037/dev0000738 or [preprint](https://psyarxiv.com/g6q5u/)
 
 
-## [CV](https://docs.google.com/document/d/1q2ZeBqlncm5O53nNYxXzpo_KPz0n9zThNp7hKoElEtk/edit?usp=sharing)
+## [CV](https://docs.google.com/document/d/150g2xyjKMUsjP2_ApwxAtBMnGqeq1cNV/edit?usp=share_link&ouid=108532043465612429821&rtpof=true&sd=true)
 
-## Teaching
-I will be teaching Research Methods as the instructor of record in Fall 2023
+## [Teaching Statement](https://docs.google.com/document/d/1c72hsxujluIQHZnH1gXJGiTIgA9Hz-Nwf5_Q1u1UrR8/edit?usp=sharing)
 
-Teaching statement to come
-
-## Diversity, Equity, and Inclusion work
-DEI statement to come
+## [Diversity, Equity, and Inclusion work](https://docs.google.com/document/d/1migQnmgBrMtDNNi0tVGBjlFXQqWLS8Z9_oGREyeVJy8/edit?usp=share_link)
